@@ -3,8 +3,8 @@
 let tab = [7,22,13,5,6]
 
 console.log('======== / for / ========')
-for(let i = 0; i < tab.length; i++){
-    console.log(tab[i])
+for (const i in tab){
+    console.log(i)
 }
 
 console.log('======== / forEach / ========')
