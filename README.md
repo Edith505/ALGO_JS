@@ -19,6 +19,9 @@ Ce repository contient une collection d'algorithmes simples implémentés en Jav
 5. **Voyelle**
    - Le fichier `voyelle.js` contient une fonction qui effectue des opérations sur les voyelles d'une chaîne de caractères.
 
+6. **Longueur du Mot le Plus Long**
+   - Le fichier `longestWord.js` contient une fonction qui affiche la longueur du mot le plus long dans une phrase, utilisant forEach et for...of.
+
 ## Comment utiliser ces algorithmes
 
 Chaque algorithme est contenu dans un fichier JavaScript distinct. Vous pouvez les intégrer à votre projet en important le fichier nécessaire. Assurez-vous d'inclure le fichier approprié dans votre code pour utiliser les fonctions fournies.
