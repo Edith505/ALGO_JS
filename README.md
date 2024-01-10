@@ -25,6 +25,9 @@ Ce repository contient une collection d'algorithmes simples implémentés en Jav
 7. **Génération d'un Nombre Aléatoire**
    - Le fichier `nombe_aleatoire.js` contient une fonction qui génère un nombre aléatoire entre 0 et 10.
 
+8. **Abbréviation (`abbr.js`)**
+   - Le fichier `abbr.js` contient une Fonction qui met en majuscule la première lettre de chaque mot dans une phrase
+
 ## Comment utiliser ces algorithmes
 
 Chaque algorithme est contenu dans un fichier JavaScript distinct. Vous pouvez les intégrer à votre projet en important le fichier nécessaire. Assurez-vous d'inclure le fichier approprié dans votre code pour utiliser les fonctions fournies.
