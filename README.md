@@ -28,6 +28,9 @@ Ce repository contient une collection d'algorithmes simples implémentés en Jav
 8. **Abbréviation (`abbr.js`)**
    - Le fichier `abbr.js` contient une Fonction qui met en majuscule la première lettre de chaque mot dans une phrase
 
+9. **Algorithme de Saisie d'Informations Utilisateur**
+   - Un programme simple en Node.js permettant de saisir le nom, le prénom et l'âge d'un utilisateur via la console, en utilisant le module readline.`saisie.js`
+
 ## Comment utiliser ces algorithmes
 
 Chaque algorithme est contenu dans un fichier JavaScript distinct. Vous pouvez les intégrer à votre projet en important le fichier nécessaire. Assurez-vous d'inclure le fichier approprié dans votre code pour utiliser les fonctions fournies.
